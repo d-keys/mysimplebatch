@@ -1,1 +1,0 @@
-for /d %%f in (*.*) do pc-dd.bat %%f
