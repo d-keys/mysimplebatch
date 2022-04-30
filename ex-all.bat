@@ -1,1 +1,0 @@
-for %%f in (*.arc*) do pc-dd.bat %%f
