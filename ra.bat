@@ -1,0 +1,1 @@
+for /d %%f in (*.*) do dd.bat %%f

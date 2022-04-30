@@ -1,0 +1,1 @@
+for %%f in (*.arc*) do dd.bat %%f
